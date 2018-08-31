@@ -60,4 +60,10 @@ Output: ./output/comparison.txt
 
 To get the comparison.txt file as output run the shell file run.sh placed on the root directory on the terminal.
 
+`$ ./run.sh`
+
+or
+
+`$ sh run.sh`
+
 Program has been tested with edge cases when there are no predictions for the 1,2 hour as well as no predictions for the last couple of hours.
